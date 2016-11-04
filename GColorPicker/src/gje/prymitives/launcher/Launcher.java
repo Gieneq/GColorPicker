@@ -23,7 +23,7 @@ import javax.swing.event.ChangeListener;
 @SuppressWarnings("serial")
 public class Launcher extends JFrame {
 	public static final int WIDTH = 600;
-	public static final int HEIGHT = 600;
+	public static final int HEIGHT = 400;
 	
 	@SuppressWarnings("unused")
 	private JLabel tlabel;
