@@ -41,7 +41,7 @@ public class Launcher extends JFrame {
 	
 	public Launcher(){
 		setSize(WIDTH, HEIGHT);
-		setTitle("Generator prostych bry³ 3D - 2015");
+		setTitle("Generator prostych bry³ 3D - 2016");
 		setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		setLayout(new BorderLayout(10, 10));
 		
